@@ -1,7 +1,7 @@
 import "./ExpenseItem.css";
-import "./ExpenseDate";
-import ExpenseDate from "./ExpenseDate";
-import Card from "./Card";
+import "../Expenses/ExpenseDate";
+import ExpenseDate from "../Expenses/ExpenseDate";
+import Card from "../UI/Card";
 
 function ExpenseItem(props) {
   const expenseAmount = props.amount;
