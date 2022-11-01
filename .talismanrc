@@ -1,10 +1,12 @@
 fileignoreconfig:
-
-- filename: src/components/Expenses/Expenses.js
-  checksum: fc3da430e14a5f8bfcbd3267a69bc756a36cff6f387b6dc52d555b51992c756c
-  version: ""
-- filename: package-lock.json
-  checksum: b1fe8671494ab26f03fa0e4b166d8fb956d2d56b0580f294429acc06b8af3b37
-- filename: src/components/Expenses/Expenses.js
-  checksum: 4161d0efd2137acc4f023601765a30a2247546816dbf0f7fa693cbcafa39b1d2
-  version: ""
+  - filename: src/components/Expenses/ExpensesList.js
+    checksum: 1c14229407cf50f4eeddc65a00874d50f10d31b87744e24ff465c5442940a5e2
+    version: ""
+  - filename: src/components/Expenses/Expenses.js
+    checksum: fc3da430e14a5f8bfcbd3267a69bc756a36cff6f387b6dc52d555b51992c756c
+    version: ""
+  - filename: package-lock.json
+    checksum: b1fe8671494ab26f03fa0e4b166d8fb956d2d56b0580f294429acc06b8af3b37
+  - filename: src/components/Expenses/Expenses.js
+    checksum: 4161d0efd2137acc4f023601765a30a2247546816dbf0f7fa693cbcafa39b1d2
+    version: ""
